@@ -46,9 +46,9 @@ A curated list of resources for robotics simulation, including dynamics, physics
 
 #### Geometric Formulation
 
-* A Recursive Multibody Dynamics and Sensitivity Algorithm for Branched Kinematic Chains (2001), G Sohl and J. Bobrow. [[pdf](http://gram.eng.uci.edu/~bobrow/papers_files/ASME_Recursive_Garett.pdf)]
+* A Recursive Multibody Dynamics and Sensitivity Algorithm for Branched Kinematic Chains (2001), G Sohl and J. Bobrow. [[pdf](https://jebobrow.eng.uci.edu/sites/default/files/ASME_Recursive_Garett.pdf)]
 * Coordinate-invariant Algorithms for Robot Dynamics (1999), S. Ploen and F. Park. [[pdf](http://robotics.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/coordinat-invariant_algorithm.pdf)]
-* A Lie Group Formulation of Robot Dynamics (1995), F. Park et al. [[pdf](http://roboticslab.snu.ac.kr/fcp/files/_pdf_files_publications/2_msd/a_lie_group_formulation_of_robot_dynamics.pdf)]
+* A Lie Group Formulation of Robot Dynamics (1995), F. Park et al. [[doi](https://doi.org/10.1177/027836499501400606)]
 
 #### Geometric Integration
 
@@ -61,10 +61,10 @@ A curated list of resources for robotics simulation, including dynamics, physics
 ### 2. Contact / Collision
 
 * Resolving Force Indeterminacy in Contact Dynamics Using Compatibility Conditions (2018), T. Olsen and K. Kamrin. [[pdf](https://arxiv.org/pdf/1805.07437.pdf)]
-* Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](http://sbel.wisc.edu/documents/TR-2016-12.pdf)]
+* Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem (2018), D. Negrut et al. [[pdf](https://par.nsf.gov/servlets/purl/10081420)]
 * Analysis and Computation of Two Body Impact in Three Dimensions (2017), Y.-B. Jia and F. Yang. [[pdf](http://web.cs.iastate.edu/~jia/papers/CND17.pdf)]
 * Rigid Body Contact Problems using Proximal Operators (2017), K. Erleben. [[pdf](http://image.diku.dk/kenny/download/erleben.17a.pdf)]
-* Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[pdf](http://rspa.royalsocietypublishing.org/content/royprsa/471/2177/20140859.full.pdf)]
+* Making a Meaningful Impact: Modelling Simultaneous Frictional Collisions in Spatial Multibody Systems (2015), T. Uchida et al. [[web](https://pmc.ncbi.nlm.nih.gov/articles/PMC4984984/)]
 * Performance of a Method for Formulating Geometrically Exact Complementarity Constraints in Multibody Dynamic Simulation (2015), D. Flickinger et al. [[pdf](https://www.researchgate.net/profile/Daniel_Flickinger/publication/274874514_Performance_of_a_Method_for_Formulating_Geometrically_Exact_Complementarity_Constraints_in_Multibody_Dynamic_Simulation/links/56b613b308ae44bb3307820a.pdf)]
 * What’s Wrong with Collision Detection in Multibody Dynamics Simulation? (2013), D. Flickinger et al. [[pdf](http://twiki.cs.rpi.edu/foswiki/pub/RoboticsWeb/LabPublications/FlickingerICRA2013.pdf)]
 * Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation using the Principle of Maximum Dissipation (2011), E. Drumwright and D. Shell. [[pdf](http://ai2-s2-pdfs.s3.amazonaws.com/f276/e8c072b8ff33ffbaa285af3368f756c9e062.pdf)]
@@ -81,7 +81,7 @@ A curated list of resources for robotics simulation, including dynamics, physics
 #### Simultaneous Contact
 
 * All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact (2017), E. Vouga et al. [[pdf](http://www.cs.utexas.edu/users/evouga/uploads/4/5/6/8/45689883/term-revised.pdf)]
-* Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](http://or.nsfc.gov.cn/bitstream/00001903-5/344688/1/1000014372636.pdf)]
+* Quadratic Contact Energy Model for Multi-impact Simulation (2015), T. Zhang et al. [[pdf](https://www.graphics.pku.edu.cn/docs/20220703165309179406.pdf)]
 * Reflections on Simultaneous Impact (2012), B. Smith et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.404&rep=rep1&type=pdf)]
 
 #### Non-uniform Coefficient of Restitution Model
@@ -148,7 +148,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 * XPBD: Position-Based Simulation of Compliant Constrained Dynamics (2016), M. Macklin et al. [[pdf](http://www.matthias-mueller-fischer.ch/publications/XPBD.pdf)]
 * Stable Constrained Dynamics (2015), M. Tournier et al. [[pdf](https://hal.inria.fr/hal-01157835/document)]
 * Position-Based Rigid Body Dynamics (2014), C. Deul et al. [[pdf](http://onlinelibrary.wiley.com/doi/10.1002/cav.1614/full)]
-* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz et al. [[pdf](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1160&context=hms)]
+* Projective Dynamics: Fusing Constraint Projections for Fast Simulation (2014), S. Bouaziz et al. [[pdf](https://www.projectivedynamics.org/projectivedynamics.pdf)]
 * Position Based Dynamics (2007), M. Müller et al. [[pdf](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)]
 
 ### 5. Deformable Body / Granular / Fluid Simulation
@@ -173,7 +173,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 ### 9. Survey
 
-* Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://twiki.cs.rpi.edu/twiki/pub/RoboticsWeb/LabPublications/BETCstar_part1.pdf)]
+* Interactive Simulation of Rigid Body Dynamics in Computer Graphics (2014), J. Bender et al. [[pdf](https://www.animation.rwth-aachen.de/media/papers/2014-CGF-RigidBodyDynamics.pdf)]
 * A Survey on Position-Based Simulation Methods in Computer Graphics (2014), J. Bender et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)]
 
 ### 10. Vehicle Dynamics
@@ -190,7 +190,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 ## [Thesis](#contents)
 
-* Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.library.caltech.edu/6441/1/Moore_thesis.pdf)]
+* Discrete Mechanics and Optimal Control for Space Trajectory Design (2011), A. Moore. [[pdf](https://thesis.caltech.edu/6441/1/Moore_thesis.pdf)]
 * Stable, Robust, and Versatile Multibody Dynamics Animation (2004), K. Erleben. [[pdf](https://www.researchgate.net/profile/Kenny_Erleben/publication/247635853_Stable_Robust_and_Versatile_Multibody_Dynamics_Animation/links/02e7e53c9330597986000000.pdf)]
 
 ## [Slides / Lectures](#contents)
@@ -199,7 +199,7 @@ V. Seghete and T. Murphey. [[pdf](https://arxiv.org/pdf/1709.02296.pdf)]
 
 ## [Thesis](#contents)
 
-* Variational Integrators (2004), M. West. [[pdf](https://thesis.library.caltech.edu/2492/1/west_thesis.pdf)]
+* Variational Integrators (2004), M. West. [[pdf](https://thesis.caltech.edu/2492/1/west_thesis.pdf)]
 
 ## [Books](#contents)
 
